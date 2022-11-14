@@ -1,4 +1,4 @@
-# E-Commerce-Website--Olist.com--Customer-Segmentation
+# E-Commerce-Website (Olist.com) Customer-Segmentation
 Customer Segmentation and Exploratory Data Analysis (EDA) using Olist.com database.
 
 This project consists of:
