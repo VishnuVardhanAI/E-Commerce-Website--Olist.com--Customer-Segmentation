@@ -2,7 +2,7 @@
 Customer Segmentation and Exploratory Data Analysis (EDA) using Olist.com database.
 
 ### This project consists of:
-1. Extensive Exploratory Data Analysis (EDA) to gain useful customer, product and geolocation insights.
+1. Extensive Exploratory Data Analysis (EDA) to gain useful customer, product and geolocation insights (PowerBI reports of the same).
 2. RFM Analysis with K-Means Clustering for Customer Segmentation.
 3. Comprehensive Cluster Analysis to derive meaningful business insights.
 
